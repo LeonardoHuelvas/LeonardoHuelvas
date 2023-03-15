@@ -19,7 +19,7 @@ Puedes echar un vistazo a algunos de mis proyectos destacados en mi perfil de Gi
 
 Aquí hay un GIF de Chrono Trigger, uno de mis juegos favoritos de la infancia:
 
-![Chrono Trigger]([https://media.giphy.com/media/6pOAJGzpqD6A4/giphy.gif](https://media2.giphy.com/media/PkCDv7CIK8d2M/giphy.gif?cid=ecf05e476hgd0v6g272e8lg0anm4u2pdyqvmovt80l5bm43a&rid=giphy.gif&ct=g))
+![Chrono Trigger](https://giphy.com/gifs/super-nintendo-time-travel-chrono-cross-PkCDv7CIK8d2M?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)
 
 Espero que te haya gustado. Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme. ¡Gracias por visitar mi perfil! 
 
