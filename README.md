@@ -2,7 +2,7 @@
 
 ¡Bienvenidos a mi perfil de GitHub! Soy un desarrollador de software con experiencia en varias tecnologías, incluyendo:
 
-- Python básico
+- Python  
 - Java - Java SprintBoot
 - Desarrollador Web Mern Stack
 - Desarrollador de Software
