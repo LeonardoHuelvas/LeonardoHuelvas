@@ -6,7 +6,7 @@
 - **Python** :snake:
 - **Java | Java Spring Boot** ☕
 - **Desarrollo Web MERN Stack** :globe_with_meridians:
-- **Ingeniería de Software** :gear:
+               :gear:
 
 ## :man_technologist: Un poco sobre mí
 
