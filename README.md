@@ -1,3 +1,45 @@
+Para mostrar tus contribuciones, cantidad de commits y proyectos en tu README de GitHub, puedes usar varias herramientas y widgets que obtienen datos de tu perfil de GitHub. Aquí hay algunos ejemplos de cómo hacerlo:
+
+    GitHub Readme Stats:
+        Puedes mostrar tus estadísticas generales, lenguajes más utilizados, y commits con GitHub Readme Stats.
+
+    markdown
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardohuelvas&show_icons=true&theme=dark)
+
+GitHub Streak Stats:
+
+    Puedes mostrar tus rachas de commits con GitHub Streak Stats.
+
+markdown
+
+![Leonardo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardohuelvas&theme=dark)
+
+GitHub Activity Graph:
+
+    Puedes mostrar tu gráfico de actividad de commits con GitHub Activity Graph.
+
+markdown
+
+![Leonardo's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=leonardohuelvas&theme=react-dark)
+
+Profile View Counter:
+
+    Puedes mostrar cuántas veces se ha visto tu perfil con Profile View Counter.
+
+markdown
+
+![Profile Views](https://komarev.com/ghpvc/?username=leonardohuelvas&label=Profile%20views&color=0e75b6&style=flat)
+
+GitHub Trophies:
+
+    Puedes mostrar tus logros en GitHub con GitHub Trophies.
+
+markdown
+
+    ![Leonardo's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=leonardohuelvas&theme=darkhub)
+
+Aquí tienes una versión del README actualizado con estas herramientas:
 <h1 align="center">Hola 👋, soy Leonardo Huelvas Borja</h1>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -41,6 +83,8 @@ Pac-Man GIF
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=leonardohuelvas&show_icons=true&theme=dark&locale=en" alt="leonardohuelvas" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardohuelvas&theme=dark" alt="leonardohuelvas" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=leonardohuelvas&theme=react-dark" alt="leonardohuelvas" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%">
 <h3 align="left">Contáctame:</h3>
