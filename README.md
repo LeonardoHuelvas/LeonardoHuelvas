@@ -20,7 +20,38 @@ En mi perfil de GitHub, encontrarás una variedad de proyectos que he realizado.
 
 Como fanático de los videojuegos clásicos, aquí te dejo un GIF de **Chrono Trigger**, uno de mis juegos favoritos de la infancia:
 
-![Chrono Trigger](https://i.giphy.com/media/PkCDv7CIK8d2M/giphy.webp)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pacman</title>
+    <style>
+        .pacman {
+            width: 0;
+            height: 0;
+            border-right: 25px solid transparent;
+            border-top: 25px solid yellow;
+            border-left: 25px solid yellow;
+            border-bottom: 25px solid yellow;
+            border-top-left-radius: 25px;
+            border-top-right-radius: 25px;
+            border-bottom-left-radius: 25px;
+            position: relative;
+            animation: pacman 2s linear infinite;
+        }
+
+        @keyframes pacman {
+            0% { left: 0; }
+            100% { left: 100%; }
+        }
+    </style>
+</head>
+<body>
+    <div class="pacman"></div>
+</body>
+</html>
+
 
 ## :mailbox: Contáctame
 
